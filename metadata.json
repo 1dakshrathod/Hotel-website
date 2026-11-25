@@ -1,0 +1,8 @@
+{
+  "name": "Sattvika House — Night Stays & Pure Veg Kitchen",
+  "description": "Boutique botanical courtyard hotel offering serene night stays, a 100% pure vegetarian morning kitchen, a real-time room availability calendar, and integrated online payment processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
